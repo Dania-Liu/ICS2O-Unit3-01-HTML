@@ -9,7 +9,9 @@
   color:greenyellow;
   text-align:center;
 }
-
 body {
   background-color:darksalmon;
+}
+table, th {
+  border: 1px solid black;
 }
