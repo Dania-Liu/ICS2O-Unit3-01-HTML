@@ -1,0 +1,15 @@
+#headline {
+  color:crimson;
+}
+.fancy {
+  font-family:fantasy;
+  text-align:center;
+}
+.fancier {
+  color:greenyellow;
+  text-align:center;
+}
+
+body {
+  background-color:darksalmon;
+}
