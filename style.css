@@ -1,21 +1,22 @@
 #headline {
-  color:crimson;
+  color: crimson;
 }
 
 .fancy {
-  font-family:fantasy;
-  text-align:center;
+  font-family: fantasy;
+  text-align: center;
 }
 
 .fancier {
-  color:greenyellow;
-  text-align:center;
+  color: greenyellow;
+  text-align: center;
 }
 
 .body {
-  background-color:darksalmon;
+  background-color: darksalmon;
 }
 
-.table, th {
-  border:1px solid black;
+.table,
+th {
+  border: 1px solid black;
 }
